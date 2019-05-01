@@ -1,0 +1,30 @@
+/*
+* Maggie Morris
+* Due Date
+* Project Name and Description
+*/
+
+/* THe universal selector */
+
+* {
+
+}
+
+
+
+body {
+   
+}
+main {background-color: cornflowerblue}
+footer {background-color: darkturquoise}
+body {font-family: helveica, futura, Arial, serif}
+h1 {text-decoration: underline overline}
+h1 {background-color: rgb(66, 20, 244)}
+h1 {font-size: 42pt;}
+h1 {text-align: center}
+img {float: right}
+p {color:#35aecc}
+p {background-color: white}
+a:link {color: lightgoldenrodyellow}
+a:hover, a:focus {color:hotpink; text-decoration: overline}
+
